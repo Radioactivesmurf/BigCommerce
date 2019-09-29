@@ -1,0 +1,11 @@
+{
+  "normalStoreUrl": "https://shawn-schmidt-products.mybigcommerce.com",
+  "accessToken": "gj12yf9bg4ki3f8etu0vmoret8pccva",
+  "port": 3000,
+  "customLayouts": {
+    "brand": {},
+    "category": {},
+    "page": {},
+    "product": {}
+  }
+}
